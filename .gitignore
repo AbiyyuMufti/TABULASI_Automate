@@ -1,0 +1,4 @@
+venv39
+TemplateData/*
+*.xlsx
+*.csv
